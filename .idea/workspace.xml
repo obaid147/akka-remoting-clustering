@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb62e822-473d-4575-b797-a5e92f72a090" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/udemy-akka-remoting-clustering-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/udemy-akka-remoting-clustering-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/udemy-akka-remoting-clustering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/udemy-akka-remoting-clustering.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IoUtvK3vQB5ZFa0bHp323P1uRd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/udemy-akka-remoting-clustering"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb62e822-473d-4575-b797-a5e92f72a090" name="Changes" comment="" />
+      <created>1670847648030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670847648030</updated>
+    </task>
+    <servers />
+  </component>
+</project>
