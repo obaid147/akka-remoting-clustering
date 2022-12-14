@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb62e822-473d-4575-b797-a5e92f72a090" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part1_remoting/deployingActorsRemotely.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/part1_remoting/DeployingActorsRemotely.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/part1_remoting/remoteActorsExercise.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/part1_remoting/remoteActorsExercise.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part1_remoting/RemoteActorsExercise.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part1_remoting/RemoteActorsExercise.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     "last_opened_file_path": "D:/udemy-akka-remoting-clustering"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DeployingActorsRemotely_RemoteApp">
+  <component name="RunManager" selected="Application.MasterApp">
     <configuration name="DeployingActorsRemotely_LocalApp" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="part1_remoting.DeployingActorsRemotely_LocalApp" />
       <module name="udemy-akka-remoting-clustering" />
@@ -125,10 +125,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeployingActorsRemotely_LocalApp" />
-        <item itemvalue="Application.DeployingActorsRemotely_RemoteApp" />
         <item itemvalue="Application.MasterApp" />
         <item itemvalue="Application.WorkersApp" />
+        <item itemvalue="Application.DeployingActorsRemotely_LocalApp" />
+        <item itemvalue="Application.DeployingActorsRemotely_RemoteApp" />
         <item itemvalue="Application.X" />
       </list>
     </recent_temporary>
