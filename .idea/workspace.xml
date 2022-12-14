@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb62e822-473d-4575-b797-a5e92f72a090" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/part2_clustering/clusteringBasics.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part2_clustering/ClusteringBasics.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/part1_remoting/remoteActorsExercise.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/part1_remoting/remoteActorsExercise.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/part1_remoting/RemoteActorsExercise.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part1_remoting/RemoteActorsExercise.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +50,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/udemy-akka-remoting-clustering"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/udemy-akka-remoting-clustering&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MasterApp">
-    <configuration name="DeployingActorsRemotely_LocalApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part1_remoting.DeployingActorsRemotely_LocalApp" />
+}</component>
+  <component name="RunManager" selected="Application.ClusteringBasics_ManualRegistration">
+    <configuration name="ClusteringBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part2_clustering.ClusteringBasics" />
       <module name="udemy-akka-remoting-clustering" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part1_remoting.*" />
+          <option name="PATTERN" value="part2_clustering.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +71,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeployingActorsRemotely_RemoteApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part1_remoting.DeployingActorsRemotely_RemoteApp" />
+    <configuration name="ClusteringBasics_ManualRegistration" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part2_clustering.ClusteringBasics_ManualRegistration" />
+      <module name="udemy-akka-remoting-clustering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part2_clustering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeployingActorsRemotely_LocalApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part1_remoting.DeployingActorsRemotely_LocalApp" />
       <module name="udemy-akka-remoting-clustering" />
       <extension name="coverage">
         <pattern>
@@ -110,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="X" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part1_remoting.X" />
-      <module name="udemy-akka-remoting-clustering" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part1_remoting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClusteringBasics_ManualRegistration" />
+        <item itemvalue="Application.ClusteringBasics" />
         <item itemvalue="Application.MasterApp" />
         <item itemvalue="Application.WorkersApp" />
         <item itemvalue="Application.DeployingActorsRemotely_LocalApp" />
-        <item itemvalue="Application.DeployingActorsRemotely_RemoteApp" />
-        <item itemvalue="Application.X" />
       </list>
     </recent_temporary>
   </component>
