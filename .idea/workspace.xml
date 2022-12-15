@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb62e822-473d-4575-b797-a5e92f72a090" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part2_clustering/clusterChat.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/part2_clustering/ClusterChat.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/part2_clustering/clusterAwareRouters.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part2_clustering/ClusterAwareRouters.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,27 +57,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/udemy-akka-remoting-clustering&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Alice">
-    <configuration name="AdditionalWorker" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part2_clustering.AdditionalWorker" />
-      <module name="udemy-akka-remoting-clustering" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part2_clustering.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Alice (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Alice" />
-      <module name="udemy-akka-remoting-clustering" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MasterWithRouterApp">
     <configuration name="Alice" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="part2_clustering.Alice" />
       <module name="udemy-akka-remoting-clustering" />
@@ -117,13 +97,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MasterWithRouterApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part2_clustering.MasterWithRouterApp" />
+      <module name="udemy-akka-remoting-clustering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part2_clustering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteesApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part2_clustering.RouteesApp" />
+      <module name="udemy-akka-remoting-clustering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part2_clustering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MasterWithRouterApp" />
+        <item itemvalue="Application.RouteesApp" />
         <item itemvalue="Application.Alice" />
         <item itemvalue="Application.Bob" />
         <item itemvalue="Application.Martin" />
-        <item itemvalue="Application.Alice (1)" />
-        <item itemvalue="Application.AdditionalWorker" />
       </list>
     </recent_temporary>
   </component>
