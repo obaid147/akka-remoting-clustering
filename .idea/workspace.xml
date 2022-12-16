@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb62e822-473d-4575-b797-a5e92f72a090" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part3_advanced_clustering/clusterSingletonExample.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/part3_advanced_clustering/ClusterSingletonExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/part3_advanced_clustering/votingSystemSingleton.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part3_advanced_clustering/VotingSystemSingleton.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,22 +57,9 @@
     &quot;last_opened_file_path&quot;: &quot;D:/udemy-akka-remoting-clustering&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PaymentSystemClient">
-    <configuration name="MasterWithRouterApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part2_clustering.MasterWithRouterApp" />
-      <module name="udemy-akka-remoting-clustering" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part2_clustering.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Node1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.Node1" />
+  <component name="RunManager" selected="Application.NewYork">
+    <configuration name="CentralElectionSystem" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.CentralElectionSystem" />
       <module name="udemy-akka-remoting-clustering" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Node2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.Node2" />
+    <configuration name="Delhi" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.Delhi" />
       <module name="udemy-akka-remoting-clustering" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Node3" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.Node3" />
+    <configuration name="NewYork" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part4_advanced_clustering.NewYork" />
       <module name="udemy-akka-remoting-clustering" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3_advanced_clustering.*" />
+          <option name="PATTERN" value="part4_advanced_clustering.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentSystemClient" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.PaymentSystemClient" />
+    <configuration name="Washington" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part4_advanced_clustering.Washington" />
       <module name="udemy-akka-remoting-clustering" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3_advanced_clustering.*" />
+          <option name="PATTERN" value="part4_advanced_clustering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="part4_advanced_clustering.CentralElectionSystem" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part4_advanced_clustering.CentralElectionSystem" />
+      <module name="udemy-akka-remoting-clustering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4_advanced_clustering.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PaymentSystemClient" />
-        <item itemvalue="Application.Node3" />
-        <item itemvalue="Application.Node2" />
-        <item itemvalue="Application.Node1" />
-        <item itemvalue="Application.MasterWithRouterApp" />
+        <item itemvalue="Application.NewYork" />
+        <item itemvalue="Application.Washington" />
+        <item itemvalue="Application.part4_advanced_clustering.CentralElectionSystem" />
+        <item itemvalue="Application.Delhi" />
+        <item itemvalue="Application.CentralElectionSystem" />
       </list>
     </recent_temporary>
   </component>
