@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb62e822-473d-4575-b797-a5e92f72a090" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/part3_advanced_clustering/votingSystemSingleton.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/part3_advanced_clustering/VotingSystemSingleton.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/part3_advanced_clustering/clusterShardingExample.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part3_advanced_clustering/ClusterShardingExample.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,22 +57,9 @@
     &quot;last_opened_file_path&quot;: &quot;D:/udemy-akka-remoting-clustering&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NewYork">
-    <configuration name="CentralElectionSystem" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.CentralElectionSystem" />
-      <module name="udemy-akka-remoting-clustering" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3_advanced_clustering.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Delhi" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.Delhi" />
+  <component name="RunManager" selected="Application.Westminster">
+    <configuration name="CharCross" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.CharCross" />
       <module name="udemy-akka-remoting-clustering" />
       <extension name="coverage">
         <pattern>
@@ -97,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PiccadillyCircus" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.PiccadillyCircus" />
+      <module name="udemy-akka-remoting-clustering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3_advanced_clustering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Washington" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="part4_advanced_clustering.Washington" />
       <module name="udemy-akka-remoting-clustering" />
@@ -110,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="part4_advanced_clustering.CentralElectionSystem" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part4_advanced_clustering.CentralElectionSystem" />
+    <configuration name="Westminster" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part3_advanced_clustering.Westminster" />
       <module name="udemy-akka-remoting-clustering" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4_advanced_clustering.*" />
+          <option name="PATTERN" value="part3_advanced_clustering.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharCross" />
+        <item itemvalue="Application.Westminster" />
+        <item itemvalue="Application.PiccadillyCircus" />
         <item itemvalue="Application.NewYork" />
         <item itemvalue="Application.Washington" />
-        <item itemvalue="Application.part4_advanced_clustering.CentralElectionSystem" />
-        <item itemvalue="Application.Delhi" />
-        <item itemvalue="Application.CentralElectionSystem" />
       </list>
     </recent_temporary>
   </component>
